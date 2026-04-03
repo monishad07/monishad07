@@ -9,8 +9,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=monishad07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Team Projects
 1. Project Name : TORVision <br>
